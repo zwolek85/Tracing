@@ -1,0 +1,12 @@
+###
+GET http://localhost:9000/basket
+
+#####
+
+POST http://localhost:9000/basket
+Content-Type: application/json
+
+{
+  "name":"Super"
+
+}
